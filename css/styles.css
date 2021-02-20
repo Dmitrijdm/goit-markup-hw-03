@@ -168,6 +168,15 @@ a {
   margin-right: auto;
   color: var(--white-text);
   font-weight: 900;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 44px;
+  line-height: 1.36;
+  /* or 136% */
+
+  text-align: center;
+  text-transform: uppercase;
 }
 
 .hero-btn {
@@ -190,7 +199,6 @@ a {
 
 /* секция наши преимущества!!!!!!!!!!!!!!!!!!!!!!!! */
 .section {
-  width: 1600px;
   background-color: var(--back-light-white);
   padding-top: 94px;
   padding-bottom: 94px;
